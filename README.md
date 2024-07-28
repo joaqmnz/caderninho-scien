@@ -1,6 +1,6 @@
 # Caderninho Scien
 ## 1. Sobre o projeto
-|![info](https://github.com/joaqmnz/caderninho-scien/blob/main/prints/tela%20de%20info.jpeg?raw=true)|
+|![info](https://github.com/joaqmnz/caderninho-scien/blob/master/prints/tela%20de%20info.jpeg?raw=true)|
 |:--:|
 | *Tela de informações* |
 
@@ -19,11 +19,11 @@ foi pensada para atribuição de atividades já concluídas. Como as atividades 
 
 ## 2. Manual do Usuário 
 ### 2.1 Tela inicial
-|![Home](https://github.com/joaqmnz/caderninho-scien/blob/main/prints/Tela%20Principal.jpeg?raw=true)|
+|![Home](https://github.com/joaqmnz/caderninho-scien/blob/master/prints/Tela%20Principal.jpeg?raw=true)|
 |:--:| 
 
 ### 2.2 Botões
-|![botões do manual](https://github.com/joaqmnz/caderninho-scien/blob/main/prints/Tela%20Principal%20manual.jpg?raw=true)|
+|![botões do manual](https://github.com/joaqmnz/caderninho-scien/blob/master/prints/Tela%20Principal%20manual.jpg?raw=true)|
 |:--:| 
 
 1. Menu Lateral.
@@ -34,7 +34,7 @@ foi pensada para atribuição de atividades já concluídas. Como as atividades 
 7. Botão para conclusão de atividades.
 
 ### 2.3 Menu lateral.
-|![menu lateral](https://github.com/joaqmnz/caderninho-scien/blob/main/prints/Atividades%20para%20concluir.jpg?raw=true)|
+|![menu lateral](https://github.com/joaqmnz/caderninho-scien/blob/master/prints/Atividades%20para%20concluir.jpg?raw=true)|
 |:--:| 
 | *A direita o menu lateral* |
 
@@ -45,7 +45,7 @@ foi pensada para atribuição de atividades já concluídas. Como as atividades 
   1.4 Informações sobre a aplicação.
   
 ### 2.4 Janela de pontuação.
-|![Botão de recompensas](https://github.com/joaqmnz/caderninho-scien/blob/main/prints/Aba%20de%20pontua%C3%A7%C3%B5es.jpg?raw=true)|
+|![Botão de recompensas](https://github.com/joaqmnz/caderninho-scien/blob/master/prints/Aba%20de%20pontua%C3%A7%C3%B5es.jpg?raw=true)|
 |:--:| 
 | *A esquerda a janela de pontuação* |
 
@@ -65,7 +65,7 @@ Para adicionar uma ou mais atividade(s):
 5. Especificar o nível de dificuldade. 
 
 ### 2.6 Concluir atividade.
-|![atividades concluidas](https://github.com/joaqmnz/caderninho-scien/blob/main/prints/Atividades%20concluidas.jpeg?raw=true)|
+|![atividades concluidas](https://github.com/joaqmnz/caderninho-scien/blob/master/prints/Atividades%20concluidas.jpeg?raw=true)|
 |:--:|
 | *Tela de atividades concluídas*|
 
@@ -78,14 +78,14 @@ Para ver a(s) atividade(s) concluída(s):
 2. Aperte o botão Atividades concluídas.
 
 ### 2.7 Pontuação.
-|![atividades concluidas](https://github.com/joaqmnz/caderninho-scien/blob/main/prints/pontos.jpeg?raw=true)|
+|![atividades concluidas](https://github.com/joaqmnz/caderninho-scien/blob/master/prints/pontos.jpeg?raw=true)|
 |:--:|
 
 Para ver a pontuação diária e semanal:
 1. Passe o *mouse* para abrir a janela de pontuações.
 
 ### 2.8 Recompensas.
-|![atividades concluidas](https://github.com/joaqmnz/caderninho-scien/blob/main/prints/Ar%C3%A9a%20de%20recompensas.jpeg?raw=true)|
+|![atividades concluidas](https://github.com/joaqmnz/caderninho-scien/blob/master/prints/Ar%C3%A9a%20de%20recompensas.jpeg?raw=true)|
 |:--:|
 
 Para ver a pontuação diária e semanal:
